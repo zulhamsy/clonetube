@@ -11,10 +11,11 @@ export default function SearchBar() {
         display: "flex",
         borderRadius: 1,
         border: "1px solid #313131",
-        bgcolor: "#121212",
+        bgcolor: "background.default",
         pl: 2,
         boxShadow: "none",
         mr: { sm: 5 },
+        backgroundImage: "none",
       }}
     >
       <input

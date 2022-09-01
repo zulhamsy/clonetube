@@ -16,6 +16,7 @@ export default function Navbar() {
       top={0}
       px={2}
       py={1.5}
+      zIndex={10}
     >
       {/* Logo as Link */}
       <Link to="/">
