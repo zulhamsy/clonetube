@@ -40,6 +40,8 @@ a {
 }
 
 .search-bar{
+  background-color: inherit;
+  color: white;
   border:none;
   outline:none;
   width:350px;
