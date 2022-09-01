@@ -14,7 +14,8 @@ export default function Navbar() {
       bgcolor="#202020"
       position="sticky"
       top={0}
-      p={2}
+      px={2}
+      py={1.5}
     >
       {/* Logo as Link */}
       <Link to="/">

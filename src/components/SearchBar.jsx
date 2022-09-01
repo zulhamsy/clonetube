@@ -10,7 +10,7 @@ export default function SearchBar() {
       sx={{
         display: "flex",
         borderRadius: 1,
-        border: "1px solid #333",
+        border: "1px solid #313131",
         bgcolor: "#121212",
         pl: 2,
         boxShadow: "none",
@@ -24,7 +24,7 @@ export default function SearchBar() {
         placeholder="Search"
       />
       <ButtonBase type="submit" sx={{ py: 1, px: 2.5, bgcolor: "#313131" }}>
-        <SearchIcon sx={{ color: "white" }} />
+        <SearchIcon sx={{ color: "grey.500" }} />
       </ButtonBase>
     </Paper>
   );
