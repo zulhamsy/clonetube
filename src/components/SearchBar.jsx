@@ -7,6 +7,7 @@ export default function SearchBar() {
     <Paper
       component="form"
       onSubmit={() => {}}
+      elevation={0}
       sx={{
         display: "flex",
         borderRadius: 1,
@@ -15,7 +16,6 @@ export default function SearchBar() {
         pl: 2,
         boxShadow: "none",
         mr: { sm: 5 },
-        backgroundImage: "none",
       }}
     >
       <input

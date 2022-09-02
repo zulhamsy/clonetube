@@ -23,11 +23,14 @@ export default function Sidebar() {
                 pl: 3,
                 pr: 5,
                 gap: 3,
-                color: "grey.300",
                 "&.MuiListItemButton-root.Mui-selected": {
                   bgcolor: "action.selected",
                 },
                 "&.MuiListItemButton-root.Mui-selected .MuiListItemIcon-root": {
+                  color: "grey.200",
+                },
+                "&.MuiListItemButton-root.Mui-selected .MuiTypography-root": {
+                  fontWeight: 500,
                   color: "grey.200",
                 },
               }}
@@ -37,7 +40,14 @@ export default function Sidebar() {
                 {category.icon}
               </ListItemIcon>
               {/* Text */}
-              <ListItemText primary={category.name} />
+              <ListItemText
+                primary={category.name}
+                primaryTypographyProps={{
+                  sx: {
+                    color: "grey.500",
+                  },
+                }}
+              />
             </ListItemButton>
           </ListItem>
         );
