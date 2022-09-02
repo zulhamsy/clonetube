@@ -1,6 +1,6 @@
 import { Box, Stack, Typography } from "@mui/material";
 import React from "react";
-import Sidebar from "./Sidebar";
+import { Sidebar, Videos } from "./";
 
 export default function Feed() {
   return (
@@ -18,7 +18,12 @@ export default function Feed() {
         </Typography>
       </Box>
       {/* Actual Feed */}
-      <Box></Box>
+      <Box sx={{ p: 2 }}>
+        <Typography variant="h5" component="h1" color="text.secondary">
+          New Videos
+        </Typography>
+        <Videos />
+      </Box>
     </Stack>
   );
 }
