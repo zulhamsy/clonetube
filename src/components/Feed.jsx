@@ -1,12 +1,19 @@
+import React, { useEffect, useState } from "react";
 import { Box, Stack, Typography } from "@mui/material";
-import React from "react";
 import { Sidebar, Videos } from "./";
+import { fetchCategoryVideos } from "../services/fetchYoutube";
 
 export default function Feed() {
+  const [selectedMenu, setSelectedMenu] = useState("New");
+
+  useEffect(() => {
+    fetchCategoryVideos(`q=${selectedMenu}`).then((data) => console.log(data));
+  }, [selectedMenu]);
+
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
       <Box borderRight="1px solid #333">
-        <Sidebar />
+        <Sidebar selectedMenu={selectedMenu} onChangeMenu={setSelectedMenu} />
         <Typography
           component="p"
           variant="caption"

@@ -9,8 +9,7 @@ import React from "react";
 
 import { categories } from "../utils/constants";
 
-const selectedMenu = "Home";
-export default function Sidebar() {
+export default function Sidebar({ selectedMenu, onChangeMenu }) {
   return (
     <List
       sx={{
@@ -24,6 +23,7 @@ export default function Sidebar() {
         return (
           <ListItem key={category.name} disablePadding>
             <ListItemButton
+              onClick={() => onChangeMenu(category.name)}
               selected={selectedMenu === category.name}
               sx={{
                 py: 1,
