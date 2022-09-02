@@ -17,8 +17,10 @@ function Video({ video }) {
           image={video.snippet.thumbnails.medium.url}
         />
         <CardContent>
+          {/* Video Title */}
           <Typography
             variant="body2"
+            gutterBottom
             sx={{
               display: "-webkit-box",
               WebkitLineClamp: 2,
@@ -28,6 +30,10 @@ function Video({ video }) {
             }}
           >
             {video.snippet.title}
+          </Typography>
+          {/* Channel Title */}
+          <Typography variant="caption" color="grey.500">
+            {video.snippet.channelTitle}
           </Typography>
         </CardContent>
       </CardActionArea>
