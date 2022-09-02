@@ -5,11 +5,7 @@ import Sidebar from "./Sidebar";
 export default function Feed() {
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
-      <Box
-        // px={{ xs: 0, md: 1 }}
-        // height={{ xs: "auto", md: "auto" }}
-        borderRight="1px solid #333"
-      >
+      <Box borderRight="1px solid #333">
         <Sidebar />
         <Typography component="p" variant="caption" color="grey.600">
           Copyright 2022 - Jul

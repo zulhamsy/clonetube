@@ -12,7 +12,14 @@ import { categories } from "../utils/constants";
 const selectedMenu = "Home";
 export default function Sidebar() {
   return (
-    <List>
+    <List
+      sx={{
+        display: "flex",
+        flexDirection: { xs: "row", md: "column" },
+        px: { xs: 1, md: 0 },
+        overflowX: "scroll",
+      }}
+    >
       {categories.map((category) => {
         return (
           <ListItem key={category.name} disablePadding>
@@ -23,6 +30,10 @@ export default function Sidebar() {
                 pl: 3,
                 pr: 5,
                 gap: 3,
+                borderRadius: {
+                  xs: 10,
+                  md: 0,
+                },
                 "&.MuiListItemButton-root.Mui-selected": {
                   bgcolor: "action.selected",
                 },
@@ -46,6 +57,7 @@ export default function Sidebar() {
                   sx: {
                     color: "grey.500",
                   },
+                  noWrap: true,
                 }}
               />
             </ListItemButton>
