@@ -24,8 +24,8 @@ export default function Sidebar({ selectedMenu, onChangeMenu }) {
         return (
           <ListItem key={category.name} disablePadding>
             <ListItemButton
-              onClick={() => onChangeMenu(category.name)}
-              selected={selectedMenu === category.name}
+              onClick={() => onChangeMenu(category)}
+              selected={selectedMenu.name === category.name}
               sx={{
                 py: 1,
                 pl: 3,

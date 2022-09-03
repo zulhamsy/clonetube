@@ -4,7 +4,7 @@ const BASE_URL = "https://youtube-v31.p.rapidapi.com";
 
 const config = {
   params: {
-    maxResults: "10",
+    maxResults: "50",
   },
   headers: {
     "X-RapidAPI-Key": process.env.REACT_APP_RAPID_API_KEY,
@@ -14,7 +14,7 @@ const config = {
 
 export async function fetchCategoryVideos(
   url,
-  params = { part: "snippet,id", regionCode: "ID", order: "date" },
+  params = { part: "snippet,id", regionCode: "ID" },
 ) {
   const { data } = await axios.get(`${BASE_URL}/search?${url}`, {
     ...config,

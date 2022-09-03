@@ -42,7 +42,7 @@ function Video({ video }) {
 }
 export default function Videos({ videos }) {
   return (
-    <Grid container columnSpacing={2} rowSpacing={4}>
+    <Grid container columnSpacing={2} rowSpacing={4} minHeight="97vh">
       {videos.map((video) => {
         return (
           <Grid item xs={12} sm={4} md={3} key={video.id.videoId}>

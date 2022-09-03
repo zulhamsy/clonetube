@@ -2,14 +2,19 @@ import React, { useEffect, useState } from "react";
 import { Box, Stack, Typography } from "@mui/material";
 import { Sidebar, Videos } from "./";
 import { fetchCategoryVideos } from "../services/fetchYoutube";
-import mockFilms from "../services/mockYoutube.json";
 
 export default function Feed() {
-  const [selectedMenu, setSelectedMenu] = useState("New");
+  const [selectedMenu, setSelectedMenu] = useState({
+    name: "New",
+    keyword: "Viral",
+  });
+  const [videoList, setVideoList] = useState([]);
 
-  // useEffect(() => {
-  //   fetchCategoryVideos(`q=${selectedMenu}`).then((data) => console.log(data));
-  // }, [selectedMenu]);
+  useEffect(() => {
+    fetchCategoryVideos(`q=${selectedMenu.keyword}`).then((data) =>
+      setVideoList(data.items),
+    );
+  }, [selectedMenu]);
 
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
@@ -36,7 +41,7 @@ export default function Feed() {
         <Typography variant="h5" component="h1" color="text.secondary" mb={2}>
           New Videos
         </Typography>
-        <Videos videos={mockFilms.items} />
+        <Videos videos={videoList} />
       </Box>
     </Stack>
   );
