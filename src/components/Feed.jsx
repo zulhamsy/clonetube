@@ -15,7 +15,7 @@ export default function Feed() {
     <Stack direction={{ xs: "column", md: "row" }}>
       <Box
         borderRight="1px solid #333"
-        position="fixed"
+        position={{ xs: "block", md: "fixed" }}
         height="100%"
         zIndex={1}
       >
@@ -32,7 +32,7 @@ export default function Feed() {
         </Typography>
       </Box>
       {/* Actual Feed */}
-      <Box sx={{ p: 2, ml: 25 }}>
+      <Box sx={{ p: 2, ml: { xs: 0, md: 25 } }}>
         <Typography variant="h5" component="h1" color="text.secondary" mb={2}>
           New Videos
         </Typography>
