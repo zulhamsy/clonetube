@@ -16,7 +16,8 @@ export default function Sidebar({ selectedMenu, onChangeMenu }) {
         display: "flex",
         flexDirection: { xs: "row", md: "column" },
         px: { xs: 1, md: 0 },
-        overflowX: "scroll",
+        overflowY: "scroll",
+        height: "82vh",
       }}
     >
       {categories.map((category) => {

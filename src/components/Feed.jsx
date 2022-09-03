@@ -13,7 +13,12 @@ export default function Feed() {
 
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
-      <Box borderRight="1px solid #333">
+      <Box
+        borderRight="1px solid #333"
+        position="fixed"
+        height="100%"
+        zIndex={1}
+      >
         <Sidebar selectedMenu={selectedMenu} onChangeMenu={setSelectedMenu} />
         <Typography
           component="p"
@@ -21,12 +26,13 @@ export default function Feed() {
           color="grey.600"
           align="center"
           display={{ xs: "none", md: "block" }}
+          pt={1}
         >
           Copyright 2022 - Jul
         </Typography>
       </Box>
       {/* Actual Feed */}
-      <Box sx={{ p: 2 }}>
+      <Box sx={{ p: 2, ml: 25 }}>
         <Typography variant="h5" component="h1" color="text.secondary" mb={2}>
           New Videos
         </Typography>
