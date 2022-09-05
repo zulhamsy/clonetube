@@ -25,7 +25,7 @@ export default function Channel({ channel: { snippet } }) {
         <CardMedia
           component="img"
           image={thumbnails.medium.url}
-          sx={{ borderRadius: "50%", width: "70%" }}
+          sx={{ borderRadius: "50%", width: "60%" }}
         />
         <CardContent>
           <Typography
