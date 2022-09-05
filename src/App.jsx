@@ -9,6 +9,7 @@ import {
   VideoDetail,
   ChannelDetail,
   SearchFeed,
+  PlaylistDetail,
 } from "./components";
 
 const darkTheme = createTheme({
@@ -27,6 +28,7 @@ export default function App() {
             <Route path="/" element={<Feed />} />
             <Route path="/video/:id" element={<VideoDetail />} />
             <Route path="/channel/:id" element={<ChannelDetail />} />
+            <Route path="/playlist/:id" element={<PlaylistDetail />} />
             <Route path="/search/:keyword" element={<SearchFeed />} />
           </Routes>
         </Box>

@@ -5,9 +5,21 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 
 export default function Video({ video: { id, snippet } }) {
-  const { title, thumbnails, channelTitle } = snippet;
+  const navigate = useNavigate();
+  const { title, thumbnails, channelTitle, channelId } = snippet;
+
+  function navigateTo() {
+    if (id.videoId) {
+      navigate("/video/" + id.videoId);
+    }
+    if (id.playlistId) {
+      navigate("/playlist/" + id.playlistId);
+    }
+  }
+
   return (
     <Card elevation={0}>
       <CardActionArea
@@ -16,7 +28,7 @@ export default function Video({ video: { id, snippet } }) {
             opacity: 0,
           },
         }}
-        onClick={() => console.log("ActionArea clicked")}
+        onClick={navigateTo}
       >
         <CardMedia component="img" image={thumbnails.medium.url} />
         <CardContent>
@@ -44,7 +56,7 @@ export default function Video({ video: { id, snippet } }) {
             }}
             onClick={(e) => {
               e.stopPropagation();
-              console.log("Channel clicked");
+              navigate("/channel/" + channelId);
             }}
             variant="caption"
             color="grey.500"

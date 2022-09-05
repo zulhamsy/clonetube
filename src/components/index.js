@@ -15,3 +15,4 @@ export { default as Channel } from "./Channel";
 export { default as VideoDetail } from "./VideoDetail";
 export { default as ChannelDetail } from "./ChannelDetail";
 export { default as SearchFeed } from "./SearchFeed";
+export { default as PlaylistDetail } from "./PlaylistDetail";

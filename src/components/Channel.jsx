@@ -1,3 +1,4 @@
+import React from "react";
 import {
   Card,
   CardActionArea,
@@ -5,10 +6,11 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
-import React from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function Channel({ channel: { snippet } }) {
-  const { thumbnails, channelTitle } = snippet;
+  const navigate = useNavigate();
+  const { thumbnails, channelTitle, channelId } = snippet;
 
   return (
     <Card elevation={0}>
@@ -20,7 +22,7 @@ export default function Channel({ channel: { snippet } }) {
             opacity: 0,
           },
         }}
-        onClick={() => console.log("ActionArea clicked")}
+        onClick={() => navigate("/channel/" + channelId)}
       >
         <CardMedia
           component="img"
@@ -28,15 +30,7 @@ export default function Channel({ channel: { snippet } }) {
           sx={{ borderRadius: "50%", width: "60%" }}
         />
         <CardContent>
-          <Typography
-            onClick={(e) => {
-              e.stopPropagation();
-              console.log("Channel clicked");
-            }}
-            variant="body2"
-          >
-            {channelTitle}
-          </Typography>
+          <Typography variant="body2">{channelTitle}</Typography>
         </CardContent>
       </CardActionArea>
     </Card>
