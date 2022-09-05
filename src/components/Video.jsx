@@ -6,7 +6,7 @@ import {
   Typography,
 } from "@mui/material";
 
-export default function Video({ video: { snippet } }) {
+export default function Video({ video: { id, snippet } }) {
   const { title, thumbnails, channelTitle } = snippet;
   return (
     <Card elevation={0}>
@@ -20,7 +20,7 @@ export default function Video({ video: { snippet } }) {
       >
         <CardMedia component="img" image={thumbnails.medium.url} />
         <CardContent>
-          {/* Video Title */}
+          {/* Video / Playlist Title */}
           <Typography
             variant="body2"
             gutterBottom
@@ -32,6 +32,7 @@ export default function Video({ video: { snippet } }) {
               textOverflow: "ellipsis",
             }}
           >
+            {id.playlistId && "Playlist: "}
             {title}
           </Typography>
           {/* Channel Title */}

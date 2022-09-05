@@ -10,6 +10,39 @@
     {
       "kind": "youtube#searchResult",
       "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb"
+      },
+      "snippet": {
+          "publishedAt": "2018-12-09T03:06:20Z",
+          "channelId": "UC4k3OBYU4q6MuspHVzZlkew",
+          "title": "ReactJS Tutorial",
+          "description": "ReactJS Tutorial ini berisi materi-materi React dari basic hingga mahir. Dengan adanya tutorial ReactJS ini semoga dapat ...",
+          "thumbnails": {
+              "default": {
+                  "url": "https://i.ytimg.com/vi/5kHyviqjhCk/default.jpg",
+                  "width": 120,
+                  "height": 90
+              },
+              "medium": {
+                  "url": "https://i.ytimg.com/vi/5kHyviqjhCk/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+              },
+              "high": {
+                  "url": "https://i.ytimg.com/vi/5kHyviqjhCk/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+              }
+          },
+          "channelTitle": "prawito hudoro",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-09T03:06:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
           "kind": "youtube#channel",
           "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ"
       },
