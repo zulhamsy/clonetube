@@ -40,7 +40,7 @@ export default function Feed() {
       {/* Actual Feed */}
       <Box sx={{ p: 2, ml: { xs: 0, md: 25 } }}>
         <Typography variant="h5" component="h1" color="text.secondary" mb={2}>
-          New Videos
+          {selectedMenu.name} Videos
         </Typography>
         <Videos videos={videoList} />
       </Box>
