@@ -10,6 +10,33 @@
     {
       "kind": "youtube#searchResult",
       "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ"
+      },
+      "snippet": {
+          "publishedAt": "2021-06-08T14:37:20Z",
+          "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+          "title": "Belajar Coding",
+          "description": "Channel ini dibuat dengan tujuan untuk mencerdaskan anak-anak Indonesia di bidang teknologi, khususnya di bidang ...",
+          "thumbnails": {
+              "default": {
+                  "url": "https://yt3.ggpht.com/4AA2YpQx7IBotEDb-6Fc-YDnZ-iqabO33_Yx2i5V2kEY33av9LvJIw0grgY0o03WS-xkmrvSoX0=s88-c-k-c0xffffffff-no-rj-mo"
+              },
+              "medium": {
+                  "url": "https://yt3.ggpht.com/4AA2YpQx7IBotEDb-6Fc-YDnZ-iqabO33_Yx2i5V2kEY33av9LvJIw0grgY0o03WS-xkmrvSoX0=s240-c-k-c0xffffffff-no-rj-mo"
+              },
+              "high": {
+                  "url": "https://yt3.ggpht.com/4AA2YpQx7IBotEDb-6Fc-YDnZ-iqabO33_Yx2i5V2kEY33av9LvJIw0grgY0o03WS-xkmrvSoX0=s800-c-k-c0xffffffff-no-rj-mo"
+              }
+          },
+          "channelTitle": "Belajar Coding",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-06-08T14:37:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
         "kind": "youtube#video",
         "videoId": "DlsYKTW7060"
       },

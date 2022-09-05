@@ -2,19 +2,20 @@ import React, { useEffect, useState } from "react";
 import { Box, Stack, Typography } from "@mui/material";
 import { Sidebar, Videos } from "./";
 import { fetchCategoryVideos } from "../services/fetchYoutube";
+import videos from "../services/mockYoutube.json";
 
 export default function Feed() {
   const [selectedMenu, setSelectedMenu] = useState({
     name: "New",
     keyword: "Viral",
   });
-  const [videoList, setVideoList] = useState([]);
+  const [videoList, setVideoList] = useState(videos.items);
 
-  useEffect(() => {
-    fetchCategoryVideos(`q=${selectedMenu.keyword}`).then((data) =>
-      setVideoList(data.items),
-    );
-  }, [selectedMenu]);
+  // useEffect(() => {
+  //   fetchCategoryVideos(`q=${selectedMenu.keyword}`).then((data) =>
+  //     setVideoList(data.items),
+  //   );
+  // }, [selectedMenu]);
 
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
