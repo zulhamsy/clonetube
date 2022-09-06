@@ -12,7 +12,7 @@ export default function Feed() {
   const [videoList, setVideoList] = useState(videos.items);
 
   // useEffect(() => {
-  //   fetchCategoryVideos(`q=${selectedMenu.keyword}`).then((data) =>
+  //   fetchCategoryVideos(selectedMenu.keyword).then((data) =>
   //     setVideoList(data.items),
   //   );
   // }, [selectedMenu]);

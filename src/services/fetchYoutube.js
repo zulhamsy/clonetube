@@ -13,10 +13,10 @@ const config = {
 };
 
 export async function fetchCategoryVideos(
-  url,
+  query,
   params = { part: "snippet,id", regionCode: "ID" },
 ) {
-  const { data } = await axios.get(`${BASE_URL}/search?${url}`, {
+  const { data } = await axios.get(`${BASE_URL}/search?q=${query}`, {
     ...config,
     params: {
       ...config.params,
@@ -24,4 +24,18 @@ export async function fetchCategoryVideos(
     },
   });
   return data;
+}
+
+export async function fetchChannelDetails(channelId) {
+  const {
+    data: { items },
+  } = await axios.get(`${BASE_URL}/channels`, {
+    ...config,
+    params: {
+      ...config.params,
+      part: "snippet,id",
+      id: channelId,
+    },
+  });
+  return items[0];
 }

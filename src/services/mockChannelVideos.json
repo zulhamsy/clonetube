@@ -1,0 +1,1661 @@
+{
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 57,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtb18YKS56k"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-03T11:34:40Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery Dasar - Full Lengkap",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding ---- 00:00:08 - Apa itu jQuery 00:10:54 - Mendeteksi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtb18YKS56k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtb18YKS56k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtb18YKS56k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-03T11:34:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y4kKfba-Aus"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-20T06:14:06Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep10. Membuat Drum Kit menggunakan jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding ---- Beli domain dan hosting di Niagahoster (diskon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y4kKfba-Aus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y4kKfba-Aus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y4kKfba-Aus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-20T06:14:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xiZo6Ay8oMM"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-06T12:45:17Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep9. addEventListener pada jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding ---- Beli domain dan hosting di Niagahoster (diskon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xiZo6Ay8oMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xiZo6Ay8oMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xiZo6Ay8oMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-06T12:45:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fEmhkRzogew"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-23T12:25:23Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep8. AJAX dan API",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding ---- Apa Itu AJAX? 1. AJAX digunakan untuk bertukar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fEmhkRzogew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fEmhkRzogew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fEmhkRzogew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-23T12:25:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oqBZ3mQwfUo"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-09T03:27:51Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep7. Membuat Megamenu Menggunakan jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding ---- Beli domain dan hosting di Niagahoster (diskon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqBZ3mQwfUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqBZ3mQwfUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqBZ3mQwfUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-09T03:27:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WeK_H0xXnlw"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-25T00:02:12Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep6. Animation",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WeK_H0xXnlw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WeK_H0xXnlw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WeK_H0xXnlw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-25T00:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "90r23C4rLog"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-11T05:32:17Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep5. This Keyword",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90r23C4rLog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90r23C4rLog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90r23C4rLog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-11T05:32:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0920yDOix_8"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-28T03:27:25Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep4. Manipulasi CSS DOM Menggunakan jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0920yDOix_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0920yDOix_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0920yDOix_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-28T03:27:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_jQUwsOTWvY"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-14T08:36:42Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep3. Manipulasi HTML DOM menggunakan jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #jquery #htmldom Di episode kali ini kita ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_jQUwsOTWvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_jQUwsOTWvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_jQUwsOTWvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-14T08:36:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdLMl0yXlFc"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T02:48:56Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep2. Mendeteksi Mouse Click Menggunakan jQuery",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #coding #jquery Syntax JQuery untuk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qdLMl0yXlFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qdLMl0yXlFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qdLMl0yXlFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T02:48:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pb7OMePca9Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-17T15:35:04Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery | Ep1. Apa Itu jQuery?",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- JQuery adalah JavaScript library untuk membuat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-17T15:35:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLQW-B1cY2ZzOyLbu37TDZ3k3uHjyxLJan"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-17T15:31:48Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar jQuery dalam Bahasa Indonesia",
+        "description": "Seri belajar jQuery dasar untuk pemula dalam Bahasa Indonesia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pb7OMePca9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-17T15:31:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vr4iSx8jx08"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-19T15:54:34Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar JavaScript Dasar - Full Lengkap",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vr4iSx8jx08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vr4iSx8jx08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vr4iSx8jx08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-19T15:54:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "364G-L4ha-g"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-05T13:47:23Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "PROJECT Membuat Game JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/364G-L4ha-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/364G-L4ha-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/364G-L4ha-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-05T13:47:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xhrCIt-xu2A"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-12T15:26:30Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#15 setTimeout pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #setTimeout.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhrCIt-xu2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhrCIt-xu2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhrCIt-xu2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-12T15:26:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ulOigbQPY1A"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-15T17:51:39Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#14 LocalStorage Pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #localstorage Local storage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulOigbQPY1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulOigbQPY1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulOigbQPY1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-15T17:51:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ex7ydGHjR1g"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-08T14:19:54Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#13 Date pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #date #javascript Di video kali ini kita akan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ex7ydGHjR1g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ex7ydGHjR1g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ex7ydGHjR1g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-08T14:19:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7dt_DZhkipY"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-24T09:13:23Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#12 Math Random pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #tutorial Halo teman-teman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7dt_DZhkipY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7dt_DZhkipY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7dt_DZhkipY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-24T09:13:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "39P_oSN7jZo"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-18T04:05:01Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#11 Function pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #function #javascript.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39P_oSN7jZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39P_oSN7jZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39P_oSN7jZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-18T04:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lWoPv3ZH02U"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-11T03:15:17Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#10 Perulangan While pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #indonesia 00:00 - Intro 00:30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWoPv3ZH02U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWoPv3ZH02U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWoPv3ZH02U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-11T03:15:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KkV6KJBbrFE"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-04T13:38:18Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#9 Perulangan For pada JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #indonesia 00:00 - Intro 00:10 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KkV6KJBbrFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KkV6KJBbrFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KkV6KJBbrFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-04T13:38:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7hDPWGYglLA"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-27T14:46:33Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#8 Pengkondisian JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #belajar #javascript #indonesia 00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hDPWGYglLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hDPWGYglLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hDPWGYglLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-27T14:46:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uFYQI6fACs0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-20T11:58:00Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#7  Array JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #belajar #javascript #indonesia 00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uFYQI6fACs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uFYQI6fACs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uFYQI6fACs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-20T11:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BC-WT8HR1fw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-13T05:55:32Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#6 Variabel JavaScript",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #belajar #javascript #indonesia 00:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BC-WT8HR1fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BC-WT8HR1fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BC-WT8HR1fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-13T05:55:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FW_xLDoxBo0"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-06T02:50:10Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#5 Mengubah CSS property menggunakan DOM",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #belajar #javascript #dom #indonesia 00:00 - Intro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FW_xLDoxBo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FW_xLDoxBo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FW_xLDoxBo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-06T02:50:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mdxPZ6Fd3fE"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-30T06:29:41Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#4 Mengubah HTML atribut menggunakan DOM",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #javascript #dom #indonesia 00:00 - Intro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mdxPZ6Fd3fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mdxPZ6Fd3fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mdxPZ6Fd3fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-30T06:29:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FCy1j-YD69o"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-23T00:42:11Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#3 Mengubah HTML elemen menggunakan DOM",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #javascript #dom #indonesia 00:00 - Intro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FCy1j-YD69o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FCy1j-YD69o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCy1j-YD69o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-23T00:42:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DqcIh0LJMbM"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-16T02:18:43Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#2 Perbedaan inline, internal dan external javascript",
+        "description": "tutorial #javascript #indonesia 00:00 - Intro 00:24 - Perbedaan inline, internal, dan external javascript 01:14 - Hands on 08:38 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqcIh0LJMbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqcIh0LJMbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqcIh0LJMbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-16T02:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d_WNvOoio9s"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-09T05:04:14Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "#1 Apa itu JavaScript?",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- 00:00 - Intro 00:30 - Peran HTML, CSS, dan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-09T05:04:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLQW-B1cY2ZzOMa7_2j2O3RgnahjbhzP9q"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-09T05:03:02Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar JavaScript dalam Bahasa Indonesia",
+        "description": "Seri belajar JavaScript dasar untuk pemula dalam Bahasa Indonesia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_WNvOoio9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-09T05:03:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UGsJCmv4ABw"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-02T06:50:16Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Membuat Website Portofolio dengan HTML dan CSS",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UGsJCmv4ABw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UGsJCmv4ABw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UGsJCmv4ABw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-02T06:50:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r9xO1ZafoW4"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-25T06:18:55Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS dasar - full lengkap",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r9xO1ZafoW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r9xO1ZafoW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r9xO1ZafoW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-25T06:18:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tVBuw-RkUU4"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-20T04:30:24Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar HTML dasar - full lengkap",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tVBuw-RkUU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tVBuw-RkUU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVBuw-RkUU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-20T04:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TElOvjd3rio"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-13T05:53:27Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep12. Text Formatting",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #css #tutorial #indonesia 00:00 - Intro 00:11 - Text ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TElOvjd3rio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TElOvjd3rio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TElOvjd3rio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-13T05:53:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bpg0EfRSb6I"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-06T03:07:35Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep11. Font",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css #font #indonesia Di video ini, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bpg0EfRSb6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bpg0EfRSb6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bpg0EfRSb6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-06T03:07:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wLFuCRxtmgc"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-30T11:36:46Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep10. Border",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #cssborder #indonesia 00:00 - Intro 00:11 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLFuCRxtmgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLFuCRxtmgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLFuCRxtmgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-30T11:36:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "suMN-sRB6Zs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-23T08:54:16Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep9. Padding",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #Tutorial #CSS #BahasaIndonesia Ini adalah ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/suMN-sRB6Zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/suMN-sRB6Zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/suMN-sRB6Zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-23T08:54:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VIPJ6heGsuA"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-16T03:48:19Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep8. Margin",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Di video ini, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VIPJ6heGsuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VIPJ6heGsuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VIPJ6heGsuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-16T03:48:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lhk6bdsL6ZU"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-12T05:28:52Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep7.  Float &amp; Clear",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Apa itu CSS float?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lhk6bdsL6ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lhk6bdsL6ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lhk6bdsL6ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-12T05:28:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UuozLsC_m5o"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-09T05:46:44Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep6. Position",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Di video ini, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuozLsC_m5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuozLsC_m5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuozLsC_m5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-09T05:46:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hUFSVsasUx8"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-05T08:02:41Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep5. Color",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Di video ini, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUFSVsasUx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUFSVsasUx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUFSVsasUx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-05T08:02:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4kwv2O-zA0"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-02T07:59:02Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep4. Div &amp; Span",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #BelajarProgramming #BelajarCSS #DivSpan Apa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4kwv2O-zA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4kwv2O-zA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4kwv2O-zA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-02T07:59:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IKyPHLlikbE"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-29T07:23:28Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep3. Selector",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Apa itu selector?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKyPHLlikbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKyPHLlikbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKyPHLlikbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-29T07:23:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3ithvQeUx-A"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-22T05:55:18Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep2. Perbedaan Inline, Internal, dan External CSS",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #css3 #indonesia Apa itu inline CSS?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ithvQeUx-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ithvQeUx-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ithvQeUx-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-22T05:55:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ycwoFdAPaMQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-19T14:56:06Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS | Ep1. Apa itu CSS?",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- Beli domain dan hosting di Niagahoster (diskon s/d ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-19T14:56:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLQW-B1cY2ZzOJHyX31cB9DUBL2K95Pusn"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-19T14:54:11Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar CSS dalam Bahasa Indonesia",
+        "description": "Seri belajar CSS dasar untuk pemula dalam Bahasa Indonesia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ycwoFdAPaMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-19T14:54:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cxjTDYKUj8s"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-15T04:00:06Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar HTML | Ep8. Form",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #html #indonesia Di video ini, teman-teman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxjTDYKUj8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxjTDYKUj8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxjTDYKUj8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-15T04:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M5K7zHainHU"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-12T14:59:17Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar HTML | Ep7. iFrame",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #html #indonesia Di video ini, teman-teman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5K7zHainHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5K7zHainHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5K7zHainHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-12T14:59:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIhh-s4GChk"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-08T14:19:51Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar HTML | Ep6. Table",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #html #indonesia Di video ini, teman-teman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIhh-s4GChk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIhh-s4GChk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIhh-s4GChk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-08T14:19:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hXs3RZdFzu8"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-05T08:54:47Z",
+        "channelId": "UCzJBSyEvTG_hG8OIDmJGLPQ",
+        "title": "Belajar HTML | Ep5. List",
+        "description": "SUPPORT CHANNEL BELAJAR CODING: https://saweria.co/belajarcoding -- #tutorial #html #indonesia Di video ini, teman-teman ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hXs3RZdFzu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hXs3RZdFzu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hXs3RZdFzu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Belajar Coding",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-05T08:54:47Z"
+      }
+    }
+  ]
+}
