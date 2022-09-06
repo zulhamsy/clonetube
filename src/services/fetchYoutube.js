@@ -39,3 +39,16 @@ export async function fetchChannelDetails(channelId) {
   });
   return items[0];
 }
+
+export async function fetchChannelVideos(channelId) {
+  const { data } = await axios.get(`${BASE_URL}/search`, {
+    ...config,
+    params: {
+      ...config.params,
+      channelId,
+      part: "snippet,id",
+      order: "date",
+    },
+  });
+  return data.items;
+}

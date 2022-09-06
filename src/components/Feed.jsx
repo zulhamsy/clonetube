@@ -9,13 +9,13 @@ export default function Feed() {
     name: "New",
     keyword: "Viral",
   });
-  const [videoList, setVideoList] = useState(videos.items);
+  const [videoList, setVideoList] = useState([]);
 
-  // useEffect(() => {
-  //   fetchCategoryVideos(selectedMenu.keyword).then((data) =>
-  //     setVideoList(data.items),
-  //   );
-  // }, [selectedMenu]);
+  useEffect(() => {
+    fetchCategoryVideos(selectedMenu.keyword).then((data) =>
+      setVideoList(data.items),
+    );
+  }, [selectedMenu]);
 
   return (
     <Stack direction={{ xs: "column", md: "row" }}>
