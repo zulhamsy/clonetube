@@ -7,9 +7,6 @@ import {
   fetchChannelVideos,
 } from "../services/fetchYoutube";
 
-// import channel from "../services/mockChannel.json";
-// import videos from "../services/mockChannelVideos.json";
-
 export default function ChannelDetail() {
   const [channelInfo, setChannelInfo] = useState({});
   const [channelVideos, setChannelVideos] = useState([]);

@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Box, Stack, Typography } from "@mui/material";
 import { Sidebar, Videos } from "./";
 import { fetchCategoryVideos } from "../services/fetchYoutube";
-import videos from "../services/mockYoutube.json";
 
 export default function Feed() {
   const [selectedMenu, setSelectedMenu] = useState({
