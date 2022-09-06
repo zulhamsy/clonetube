@@ -33,9 +33,9 @@ export default function ChannelDetail() {
         }}
         minHeight="200px"
       />
-      <Stack direction="column" alignItems="flex-start">
+      <Stack direction="column" alignItems="flex-start" px={8}>
         {/* Channel Info */}
-        <Stack direction="row" alignItems="center" gap={3} py={2} px={8}>
+        <Stack direction="row" alignItems="center" gap={3} py={2}>
           <Avatar
             src={channelInfo?.snippet?.thumbnails?.medium?.url}
             sx={{
@@ -53,7 +53,7 @@ export default function ChannelDetail() {
           </div>
         </Stack>
         {/* Channel's Videos */}
-        <Box px={8} pt={2}>
+        <Box pt={2}>
           <Typography variant="h6" gutterBottom color="grey.500">
             Upload
           </Typography>
