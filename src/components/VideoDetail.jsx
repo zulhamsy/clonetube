@@ -1,9 +1,18 @@
-import React from "react";
-import { Box, Grid, Stack, Typography } from "@mui/material";
+import React, { useEffect, useState } from "react";
+import { Box, Grid, Typography } from "@mui/material";
 import { useParams } from "react-router-dom";
+import { fetchRelatedVideos } from "../services/fetchYoutube";
+import { Video, RelatedVideo } from "./";
 
 export default function VideoDetail() {
+  const [videos, setVideos] = useState([]);
   const { id } = useParams();
+
+  useEffect(() => {
+    fetchRelatedVideos(id).then((result) => setVideos(result));
+    console.log("useEffect run");
+  }, [id]);
+
   return (
     <Grid container spacing={3} px={8} py={2}>
       {/* Video Detail */}
@@ -31,7 +40,22 @@ export default function VideoDetail() {
       </Grid>
       {/* Related Video Thumbnail */}
       <Grid item xs={12} md={4}>
-        <Typography color="white">Related Vids</Typography>
+        <Typography color="grey.500" variant="body2">
+          Related Video
+        </Typography>
+        <Grid container spacing={1}>
+          {videos.map((video) => {
+            if (video.snippet) {
+              return (
+                <Grid item xs={12} key={video.id.videoId}>
+                  {/* <Video video={video} /> */}
+                  <RelatedVideo video={video} />
+                </Grid>
+              );
+            }
+            return null;
+          })}
+        </Grid>
       </Grid>
     </Grid>
   );

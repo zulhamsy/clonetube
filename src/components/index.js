@@ -11,6 +11,9 @@ export { default as Videos } from "./Videos";
 export { default as Video } from "./Video";
 export { default as Channel } from "./Channel";
 
+// Video Detail related
+export { default as RelatedVideo } from "./RelatedVideo";
+
 // Pages
 export { default as VideoDetail } from "./VideoDetail";
 export { default as ChannelDetail } from "./ChannelDetail";

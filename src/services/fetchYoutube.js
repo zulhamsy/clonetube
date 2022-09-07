@@ -52,3 +52,18 @@ export async function fetchChannelVideos(channelId) {
   });
   return data.items;
 }
+
+export async function fetchRelatedVideos(videoId) {
+  const {
+    data: { items },
+  } = await axios.get(`${BASE_URL}/search`, {
+    ...config,
+    params: {
+      relatedToVideoId: videoId,
+      part: "id,snippet",
+      type: "video",
+      maxResults: "20",
+    },
+  });
+  return items;
+}
